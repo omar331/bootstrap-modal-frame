@@ -19,7 +19,7 @@ $.fn.modal.Constructor.prototype.show = function() {
 //    console.log('%o',  this.$element);
     relatedTarget = arguments[0];
     if ( dataFrameSrc = $(relatedTarget).attr('data-frame-src') ) {
-        hframe = '<iframe style="border:0" width="100%" src="' + dataFrameSrc + '"></iframe>';
+        hframe = '<iframe style="border:0" width="100%" height="350" src="' + dataFrameSrc + '"></iframe>';
         this.$element.find('.modal-body').html( hframe );
     }
 
