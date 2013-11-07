@@ -18,6 +18,5 @@
     "require-dev": {
     },
     "suggest": {
-    },
-    "target-dir": "omar331/bootstrap-modal-frame"
+    }
 }
