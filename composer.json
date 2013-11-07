@@ -4,7 +4,7 @@
     "description": "A extension of twitter bootstrap's modal that support.",
     "keywords": ["bootstrap", "iframe", "modal"],
     "homepage": "https://github.com/omar331/bootstrap-modal-frame",
-    "license": "GPL 2.0",
+    "license": "GPL-2.0",
     "authors": [
         {
             "name": "Omar Alves",
@@ -13,7 +13,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "twbs/bootstrap": "v3.0.*"
+        "twbs/bootstrap": "3.0.*"
     },
     "require-dev": {
     },
