@@ -1,6 +1,6 @@
 {
     "name": "omar331/bootstrap-modal-frame",
-    "type": "symfony-bundle",
+    "type": "library",
     "description": "A extension of twitter bootstrap's modal that support.",
     "keywords": ["bootstrap", "iframe", "modal"],
     "homepage": "https://github.com/omar331/bootstrap-modal-frame",
